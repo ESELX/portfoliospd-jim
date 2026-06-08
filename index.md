@@ -26,11 +26,11 @@ members:
 
 ## Elementos do Grupo
 
-| Número  | Nome    |
-| ------- | ------- |
-| 20XXXXX | Aluno A |
-| 20YYYYY | Aluno B |
-| 20ZZZZZ | Aluno C |
+| Número  | Nome             |
+| ------- | ---------------- |
+| 2023    | Ítalo Santos     |
+| 2024280 | Mariana Ferretto |
+| 2024277 | Matilde Jorge    |
 
 ---
 

@@ -5,10 +5,10 @@ Este repositório é a **entrega final do vosso grupo**. Cada commit no `main` a
 
 ## Componentes da entrega
 
-| Peso | Componente | Onde vive |
-|------|------------|-----------|
-| 50% | **Tutoriais de Máquinas** (grupo) — 2 tutoriais detalhados, um por máquina | `tutoriais/<nome-da-maquina>/` |
-| 50% | **Projeto Integrado** (individual) — um por elemento | `experiencias/<numero>-<nome>/` |
+| Peso | Componente                                                                 | Onde vive                       |
+| ---- | -------------------------------------------------------------------------- | ------------------------------- |
+| 50%  | **Tutoriais de Máquinas** (grupo) — 2 tutoriais detalhados, um por máquina | `tutoriais/<nome-da-maquina>/`  |
+| 50%  | **Projeto Integrado** (individual) — um por elemento                       | `experiencias/<numero>-<nome>/` |
 
 ---
 
