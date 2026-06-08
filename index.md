@@ -4,14 +4,14 @@ icon: lucide/users
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: Nome do Grupo
+hero_title: JIM
 hero_subtitle: Prototipagem Digital · 2025-26
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
 published: true
 course: PrototipagemDigital
-group_name: ""
+group_name: JIM
 group_number: ""
 members:
   - number: ""
@@ -28,7 +28,7 @@ members:
 
 | Número  | Nome             |
 | ------- | ---------------- |
-| 2023    | Ítalo Santos     |
+| 2023225 | Ítalo Santos     |
 | 2024280 | Mariana Ferretto |
 | 2024277 | Matilde Jorge    |
 
@@ -44,14 +44,14 @@ Cada grupo documenta **duas máquinas** com tutoriais detalhados. As páginas in
 <!-- markdownlint-disable MD033 -->
 <div class="gallery-grid">
 
-  <a class="gallery-card" href="tutoriais/_modelo/">
-    <img src="tutoriais/_modelo/attachments/hero.jpg" alt="" />
+  <a class="gallery-card" href="tutoriais/bambu/">
+    <img src="tutoriais/bambu/attachments/bambu.jpg" alt="" />
     <h3>Nome da Máquina 1</h3>
     <p>Tutorial detalhado</p>
   </a>
 
-  <a class="gallery-card" href="tutoriais/_modelo/">
-    <img src="tutoriais/_modelo/attachments/hero.jpg" alt="" />
+  <a class="gallery-card" href="tutoriais/silhouette/">
+    <img src="tutoriais/silhouette/attachments/hero.jpg" alt="" />
     <h3>Nome da Máquina 2</h3>
     <p>Tutorial detalhado</p>
   </a>
