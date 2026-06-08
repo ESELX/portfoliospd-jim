@@ -1,16 +1,16 @@
 ---
-title: "Nome do Grupo"
+title: JIM
 icon: lucide/users
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: "Nome do Grupo"
-hero_subtitle: "Prototipagem Digital · 2025-26"
+hero_title: Nome do Grupo
+hero_subtitle: Prototipagem Digital · 2025-26
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
 published: true
-course: "PrototipagemDigital"
+course: PrototipagemDigital
 group_name: ""
 group_number: ""
 members:
@@ -36,7 +36,7 @@ members:
 
 ## Tutoriais de Máquinas
 
-Cada grupo documenta **duas máquinas** com tutoriais detalhados. As páginas individuais de cada tutorial estão em [tutoriais/](tutoriais/).
+Cada grupo documenta **duas máquinas** com tutoriais detalhados. As páginas individuais de cada tutorial estão em tutoriais.
 
 <!-- Cada thumbnail liga ao tutorial. Cada tutorial vive em
      tutoriais/<nome-da-maquina>/index.md (renomear `_modelo`). -->
@@ -63,7 +63,7 @@ Cada grupo documenta **duas máquinas** com tutoriais detalhados. As páginas in
 
 ## Galeria de Experiências Individuais
 
-Cada elemento do grupo desenvolveu um portfólio individual (**Projeto Integrado**, 50% da avaliação). As páginas individuais estão em [experiencias/](experiencias/).
+Cada elemento do grupo desenvolveu um portfólio individual (**Projeto Integrado**, 50% da avaliação). As páginas individuais estão em experiencias.
 
 <!-- Duplicar o bloco abaixo para cada elemento e substituir `_modelo` em
      ambos os caminhos por `<numero>-<nome>`. -->
