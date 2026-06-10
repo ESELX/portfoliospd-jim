@@ -22,35 +22,65 @@ Tutorial elaborado pelo grupo seguindo a estrutura de referência (ver tutorial 
 
 ## 1. Como desenhar para esta tecnologia?
 
-Considerações de design específicas desta máquina: limitações dimensionais, espessuras mínimas/máximas, tolerâncias, geometrias que funcionam (ou não), regras de modelação.
+De modo a dar corpo a um projeto através da Bambu Lab A1 mini é necessário desenhar e preparar o ficheiro num software de modelação 3D tais como o Fusion 360, o Blender e outros.
+É importante mencionar que existem plataformas que disponibilizam diversos e imensos modelos 3D e STL gratuitos feitos por outros designers e criadores da comunidade. Destas plataformas indicamos a MakerWorld e a Thingiverse.
 
 ## 2. Como preparar um ficheiro para a máquina
 
-Software necessário, formatos de exportação, parâmetros de slicer/CAM, organização de camadas, calibrações.
+Antes de ser impresso, o ficheiro do modelo 3D tem que ser processado através dum *slicer* de modo a que o mesmo seja convertido para um G-code. O slicer indicado para a Bambu Lab A1 mini é o Bambo Studio. 
 
-- Software:
-- Formatos de ficheiro:
-- Settings principais:
+Para abrir o ficheiro 3D dentro do Bambu Studio, o mesmo tem que ser importado num dos seguintes formatos suportados pelo slicer: .stl / .obj / .3mf
 
+![](attachments/Pasted%20image%2020260610221046.png)
+	imagem 1 - preparação do ficheiro dentro do *slicer* Bambu Studio
+
+**Preparação do ficheiro dentro do Bambu Studio**. Pontos importantes a ter em consideração são:
+A. Impressora
+	- selecionar a Bambu Lab A1 mini
+	- selecionar o textured PEI plate
+B. Filamento
+	- selecionar o Generic PTEG  
+C. Suporte
+	- caso a peça que será impressa necessite de apoio durante o processo de impressão, deverá ir à aba do Support e configurar de acordo com o necessário. 
+
+![](attachments/Pasted%20image%2020260610221207.png)
+	imagem 2 - configuração dos apoios
+
+Quando a preparação do ficheiro estiver concluída pode ser realizado o *slice* do ficheiro completo ou de apenas um dos *plates*, onde então é criado o G-code para a impressão e nos são dadas mais informações tais como o tempo estimado da impressão.
+
+![](attachments/Pasted%20image%2020260610221214.png)
+	imagem 3 - resultados do *slicer* no canto superior direito do ecrã
+
+E por fim o ficheiro deverá ser exportado, como mostrado na imagem 4 que se segue, no formato Gcode (neste caso .gcode.3mf) e assim o ficheiro estará pronto.
+
+![](attachments/Pasted%20image%2020260610221219.png)
+	imagem 4 - selecionar export plate sliced file/ export all sliced file
 ## 3. Antes de Começar
 
 ### 3.1. Segurança
 
-Equipamento de proteção individual, riscos específicos, procedimentos de emergência.
+ A máquina não deve ter nenhum outro objeto demasiado perto de modo a não provocar danos e/ou acidentes durante o funcionamento da máquina.
 
-### 3.2. Que tipo de ficheiros vou usar e onde os posso produzir
+Certificar-se que a placa de montagem se encontra limpa e sem quaisquer outros objetos/resíduos/manchas em cima ao que os mesmos podem perturbar e impossibilitar o funcionamento da máquina. Caso seja necessário, deve-se usar um papel/toalha com álcool para limpar a superfície da placa de montagem e esperar que a mesma seque por completo antes de a utilizar
 
-Onde criar os ficheiros (software disponível na escola/fablab/casa), formatos esperados, validações antes de operar.
+Ter cuidado para não tocar na placa de montagem durante o período da impressão pois a mesma pode chegar até aos 80ºC! Pela mesma razão deve-se aguardar um pouco que a placa de montagem arrefeça assim que o processo de impressão tenha concluído, de modo a evitar acidentes ou queimaduras ao se retirar o objeto impresso de cima da placa.
 
 ## 4. Como operar a máquina passo-a-passo
 
 Sequência operacional, com fotografias e/ou pequenos vídeos em cada passo crítico.
 
-1. Passo 1 — descrição
-2. Passo 2 — descrição
-3. Passo 3 — ...
+1. Ligar a impressora no botão que se encontra no fundo da impressora 
+![](attachments/Pasted%20image%2020260610221407.png)
+	imagem 5 - botão para ligar/desligar a impressora
 
-![](attachments/hero.jpg)
+2. Ejetar o cartão SD da impressora através do menu: 
+*Settings* -> SD Card -> *Eject* -> confirmar *Eject*
+colocar imagens do wiki
+
+3. Retirar o cartão SD da máquina e conectá-lo ao dispositivo e copiar o ficheiro G-Code para o cartão.
+4. Ejetar o cartão SD do dispositivo e voltar a colocá-lo na impressora
+5. Começar a impressão:
+ Print Files -> selecionar o ficheiro -> Start Printing
 
 ## 5. Resultado e pós-produção
 
@@ -58,8 +88,9 @@ Que operações ainda têm de ser realizadas sobre o objeto produzido para chega
 
 ## 6. Recursos e Ficheiros
 
-Templates, ficheiros-modelo, links, bibliografia técnica, FAQ, troubleshooting.
+O ficheiro utilizado para referência deste tutorial foi feito no Autodesk Fusion 360 (modelo dum *breath builder*).
+O *slicer* utilizado foi o Bambu Studio.
 
-- Ficheiros-modelo: `attachments/`
-- Links externos:
-- Vídeos de referência:
+- obter o Autodesk Fusion 360: https://www.autodesk.com/pt/products/fusion-360/overview
+- ficheiro do *breath builder* : https://a360.co/4vKpTGw
+- obter o Bambu Studio: https://bambulab.com/en/download/studio
