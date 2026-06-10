@@ -5,7 +5,7 @@ tags: galeria
 status: not-started
 hero_image: attachments/hero%201.jpg
 hero_title: Cortadora de Vinil Silhouette Cameo 5 Alpha Branco
-hero_subtitle: Cortadora de Vinil Silhouette Cameo 5 Alpha Branco
+hero_subtitle: Tutorial detalhado
 hero_height: 70vh
 hero_overlay: 0.3
 hero_align: center

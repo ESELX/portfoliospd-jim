@@ -3,7 +3,7 @@ title: Bambu Lab A1 mini
 icon: lucide/cog
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
+hero_image: attachments/bambu.jpg
 hero_title: Bambu Lab A1 mini
 hero_subtitle: Tutorial detalhado
 hero_height: 70vh
@@ -18,7 +18,6 @@ machine_name: Bambu Lab A1 mini
 > Frase-síntese: o que é a máquina, para que serve, em que contextos é usada.
 ![](attachments/bambu.jpg)
 
-Tutorial elaborado pelo grupo seguindo a estrutura de referência (ver tutorial CNC do Fablab Benfica como modelo: <https://fablabbenfica.gitlab.io/fablabbenficadocs/machines/ouplan/>).
 
 ## 1. Como desenhar para esta tecnologia?
 
@@ -78,7 +77,9 @@ Sequência operacional, com fotografias e/ou pequenos vídeos em cada passo crí
 colocar imagens do wiki
 
 3. Retirar o cartão SD da máquina e conectá-lo ao dispositivo e copiar o ficheiro G-Code para o cartão.
+
 4. Ejetar o cartão SD do dispositivo e voltar a colocá-lo na impressora
+
 5. Começar a impressão:
  Print Files -> selecionar o ficheiro -> Start Printing
 

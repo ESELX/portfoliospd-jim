@@ -3,7 +3,7 @@ title: JIM
 icon: lucide/users
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
+hero_image: attachments/P1180885.jpg
 hero_title: JIM
 hero_subtitle: Prototipagem Digital · 2025-26
 hero_height: 100vh
@@ -28,7 +28,6 @@ members:
 
 | Número  | Nome             |
 | ------- | ---------------- |
-| 2023225 | Ítalo Santos     |
 | 2024280 | Mariana Ferretto |
 | 2024277 | Matilde Jorge    |
 
@@ -46,13 +45,13 @@ Cada grupo documenta **duas máquinas** com tutoriais detalhados. As páginas in
 
   <a class="gallery-card" href="tutoriais/bambu/">
     <img src="tutoriais/bambu/attachments/bambu.jpg" alt="" />
-    <h3>Nome da Máquina 1</h3>
+    <h3>Bambu Lab A1 mini</h3>
     <p>Tutorial detalhado</p>
   </a>
 
   <a class="gallery-card" href="tutoriais/silhouette/">
     <img src="tutoriais/silhouette/attachments/hero.jpg" alt="" />
-    <h3>Nome da Máquina 2</h3>
+    <h3>Silhouette Cameo 5 Alpha</h3>
     <p>Tutorial detalhado</p>
   </a>
 
