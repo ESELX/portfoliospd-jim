@@ -60,7 +60,10 @@ E por fim o ficheiro deverá ser exportado, como mostrado na imagem 4 que se seg
 
  A máquina não deve ter nenhum outro objeto demasiado perto de modo a não provocar danos e/ou acidentes durante o funcionamento da máquina.
 
-Certificar-se que a placa de montagem se encontra limpa e sem quaisquer outros objetos/resíduos/manchas em cima ao que os mesmos podem perturbar e impossibilitar o funcionamento da máquina. Caso seja necessário, deve-se usar um papel/toalha com álcool para limpar a superfície da placa de montagem e esperar que a mesma seque por completo antes de a utilizar
+Certificar-se que a placa de montagem se encontra limpa e sem quaisquer outros objetos/resíduos/manchas em cima ao que os mesmos podem perturbar e impossibilitar o funcionamento da máquina. Caso seja necessário, deve-se usar um papel/toalha com álcool para limpar a superfície da placa de montagem e esperar que a mesma seque por completo antes de a utilizar.
+
+![445](attachments/P1180978.jpg)
+	imagem 5 - limpeza da placa de montagem
 
 Ter cuidado para não tocar na placa de montagem durante o período da impressão pois a mesma pode chegar até aos 80ºC! Pela mesma razão deve-se aguardar um pouco que a placa de montagem arrefeça assim que o processo de impressão tenha concluído, de modo a evitar acidentes ou queimaduras ao se retirar o objeto impresso de cima da placa.
 
@@ -70,22 +73,36 @@ Sequência operacional, com fotografias e/ou pequenos vídeos em cada passo crí
 
 1. Ligar a impressora no botão que se encontra no fundo da impressora 
 ![](attachments/Pasted%20image%2020260610221407.png)
-	imagem 5 - botão para ligar/desligar a impressora
+	imagem 6 - botão para ligar/desligar a impressora
 
 2. Ejetar o cartão SD da impressora através do menu: 
 *Settings* -> SD Card -> *Eject* -> confirmar *Eject*
-colocar imagens do wiki
+
+![445](attachments/Pasted%20image%2020260610234646.png)
+	imagem 7 - passo-a-passo para ejetar o cartão SD no ecrã da Bambu Lab A1 mini
 
 3. Retirar o cartão SD da máquina e conectá-lo ao dispositivo e copiar o ficheiro G-Code para o cartão.
+
+![](attachments/P1180977.jpg)
+	imagem 8 - local do cartão SD na Bambu Lab A1 mini
 
 4. Ejetar o cartão SD do dispositivo e voltar a colocá-lo na impressora
 
 5. Começar a impressão:
- Print Files -> selecionar o ficheiro -> Start Printing
-
+ *Print Files* -> selecionar o ficheiro -> *Start Printing*
+ ![](attachments/Pasted%20image%2020260610235219.jpg)
+	imagem 9 - passo-a-passo para começar a impressão
 ## 5. Resultado e pós-produção
 
-Que operações ainda têm de ser realizadas sobre o objeto produzido para chegar ao resultado final: lixagem, montagem, acabamentos, ajustes.
+Após a impressão bem sucedida, retirar o objeto impresso de cima da placa de montagem recorrendo às "espátulas".
+
+Ter muito cuidado nesta parte pois a placa de montagem ainda se encontra bastante quente logo após a conclusão da impressão!
+
+Com o objeto retirado, os utilizadores podem vir a querer aprimorar o aspeto do mesmo, podendo optar por:
+- retirar quaisquer suportes e "árvores" que possam ter tido aplicadas
+- lixar as peças com as folhas de lixa adequadas para o acabamento desejado
+- acabamentos com *primer* e tinta para pintar as peças
+- montar as peças que possam constituir o objeto final
 
 ## 6. Recursos e Ficheiros
 
@@ -95,3 +112,4 @@ O *slicer* utilizado foi o Bambu Studio.
 - obter o Autodesk Fusion 360: https://www.autodesk.com/pt/products/fusion-360/overview
 - ficheiro do *breath builder* : https://a360.co/4vKpTGw
 - obter o Bambu Studio: https://bambulab.com/en/download/studio
+- Bambu Lab Wiki para auxílio com outras possíveis dúvidas: https://wiki.bambulab.com/en/a1/manual/how-to-print-from-sd-card

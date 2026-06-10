@@ -35,8 +35,6 @@ members:
 
 ## Tutoriais de Máquinas
 
-Cada grupo documenta **duas máquinas** com tutoriais detalhados. As páginas individuais de cada tutorial estão em tutoriais.
-
 <!-- Cada thumbnail liga ao tutorial. Cada tutorial vive em
      tutoriais/<nome-da-maquina>/index.md (renomear `_modelo`). -->
 
@@ -50,7 +48,7 @@ Cada grupo documenta **duas máquinas** com tutoriais detalhados. As páginas in
   </a>
 
   <a class="gallery-card" href="tutoriais/silhouette/">
-    <img src="tutoriais/silhouette/attachments/hero.jpg" alt="" />
+    <img src="tutoriais/silhouette/attachments/attachments/hero%201.jpg" alt="" />
     <h3>Silhouette Cameo 5 Alpha</h3>
     <p>Tutorial detalhado</p>
   </a>
@@ -70,11 +68,15 @@ Cada elemento do grupo desenvolveu um portfólio individual (**Projeto Integrado
 <!-- markdownlint-disable MD033 -->
 <div class="gallery-grid">
 
-  <a class="gallery-card" href="experiencias/_modelo/">
-    <img src="experiencias/_modelo/attachments/hero.jpg" alt="" />
-    <h3>Nome do Projeto</h3>
-    <p>Nome do Aluno</p>
+  <a class="gallery-card" href="experiencias/2024277-Matilde/">
+    <img src="experiencias/2024277-Matilde/attachments/hero.jpg" alt="" />
+    <h3>Breath Builder</h3>
+    <p>Matilde Jorge</p>
   </a>
-
+<a class="gallery-card" href="experiencias/2024280-Mariana/">
+    <img src="experiencias/2024280-Mariana/attachments/hero.jpg" alt="" />
+    <h3>Xadrez DOXA</h3>
+    <p>Mariana Ferretto</p>
+  </a>
 </div>
 <!-- markdownlint-enable MD033 -->
