@@ -1,22 +1,22 @@
 ---
-title: Cortadora de Vinil Silhouette Cameo 5 Alpha Branco
+title: Cortadora de Vinil Silhouette Cameo 3 Branco
 icon: lucide/cog
 tags: galeria
 status: not-started
 hero_image: attachments/hero%201.jpg
-hero_title: Cortadora de Vinil Silhouette Cameo 5 Alpha Branco
+hero_title: Cortadora de Vinil Silhouette Cameo 3 Branco
 hero_subtitle: Tutorial detalhado
 hero_height: 70vh
 hero_overlay: 0.3
 hero_align: center
 published: true
-machine_name: Cortadora de Vinil Silhouette Cameo 5 Alpha Branco
+machine_name: Cortadora de Vinil Silhouette Cameo 3 Branco
 ---
 
-#  Cortadora de Vinil Silhouette Cameo 5 Alpha Branco
-> A Silhouette Cameo 5 é uma plotter de corte digital que permite transformar desenhos vetoriais em cortes sobre diversos materiais, sendo utilizada em contextos de design, produção gráfica e prototipagem.
+#  Cortadora de Vinil Silhouette Cameo 3 Branco
+> A Silhouette Cameo 3 é uma plotter de corte digital que permite transformar desenhos vetoriais em cortes sobre diversos materiais, sendo utilizada em contextos de design, produção gráfica e prototipagem.
 
-![](attachments/hero%201.jpg)
+![](../../attachments/silhouette.jpg)
 
 ## 1. Como desenhar para esta tecnologia?
 

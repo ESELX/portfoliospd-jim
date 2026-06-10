@@ -22,7 +22,7 @@ members:
 
 # Nome do Grupo
 
-> Substituam este parágrafo por uma frase de apresentação do grupo (uma linha conceptualmente forte).
+> Entre a documentação técnica e a exploração criativa, o grupo JIM utilizou o fabrico digital para transformar ideias em objetos, processos e experiências.
 
 ## Elementos do Grupo
 
@@ -34,6 +34,8 @@ members:
 ---
 
 ## Tutoriais de Máquinas
+
+Este grupo desenvolveu tutoriais de utilização para a cortadora de vinil Silhouette Cameo 3 Branco e para a impressora 3D Bambu Lab A1 Mini, documentando os respetivos processos de preparação, operação e pós-produção, em simultâneo, cada elemento desenvolveu um projeto individual recorrendo às tecnologias exploradas em laboratório, aplicando conhecimentos de modelação digital, impressão 3D e fabrico assistido por computador, o conjunto dos trabalhos reflete tanto a componente técnica de aprendizagem das máquinas como a sua aplicação em projetos de caráter conceptual e criativo.
 
 <!-- Cada thumbnail liga ao tutorial. Cada tutorial vive em
      tutoriais/<nome-da-maquina>/index.md (renomear `_modelo`). -->
@@ -48,8 +50,8 @@ members:
   </a>
 
   <a class="gallery-card" href="tutoriais/silhouette/">
-    <img src="tutoriais/silhouette/attachments/attachments/hero%201.jpg" alt="" />
-    <h3>Silhouette Cameo 5 Alpha</h3>
+    <img src="tutoriais/silhouette/attachments/attachments/silhouette.jpg" alt="" />
+    <h3>Silhouette Cameo 3</h3>
     <p>Tutorial detalhado</p>
   </a>
 
@@ -59,8 +61,6 @@ members:
 ---
 
 ## Galeria de Experiências Individuais
-
-Cada elemento do grupo desenvolveu um portfólio individual (**Projeto Integrado**, 50% da avaliação). As páginas individuais estão em experiencias.
 
 <!-- Duplicar o bloco abaixo para cada elemento e substituir `_modelo` em
      ambos os caminhos por `<numero>-<nome>`. -->
@@ -74,7 +74,7 @@ Cada elemento do grupo desenvolveu um portfólio individual (**Projeto Integrado
     <p>Matilde Jorge</p>
   </a>
 <a class="gallery-card" href="experiencias/2024280-Mariana/">
-    <img src="experiencias/2024280-Mariana/attachments/hero.jpg" alt="" />
+    <img src="experiencias/2024280-Mariana/attachments/DOXA2.jpg" alt="" />
     <h3>Xadrez DOXA</h3>
     <p>Mariana Ferretto</p>
   </a>

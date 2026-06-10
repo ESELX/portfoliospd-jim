@@ -3,7 +3,7 @@ title: Xadrez DOXA
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
+hero_image: attachments/DOXA2.jpg.jpeg
 hero_title: Xadrez DOXA
 hero_subtitle: Mariana Ferretto · 2024280
 hero_height: 80vh
@@ -16,7 +16,7 @@ student_number: "2024280"
 
 # Xadrez DOXA
 
-![](attachments/hero.jpg)
+![](../../attachments/DOXA2.jpg.jpeg)
 
 Transformar uma batalha mental e espiritual num jogo inspirado no xadrez, onde a procura pela glória de Deus supera o caos, a ansiedade e os julgamentos humanos.
 
@@ -26,9 +26,9 @@ O projeto DOXA surgiu durante um período de bloqueio criativo vivido ao longo d
 
 O ponto de partida foi o xadrez, um jogo historicamente associado à simulação de estratégias e batalhas reais. No entanto, em vez de representar um conflito militar, o projeto procura representar um conflito interior, a estrutura e os movimentos do xadrez foram mantidos, mas o significado das peças, os seus objetivos e a narrativa do jogo foram completamente transformados.
 
-A peça central do jogo é a Doxa, a palavra 'doxa', no grego koiné, significava originalmente opinião ou senso comum, mas no contexto do Novo Testamento passou a ser utilizada para descrever a glória de Deus, por esse motivo, a peça Doxa simboliza a Glória de Deus e tornase o objetivo final do jogo. 
+A peça central do jogo é a Doxa, a palavra 'doxa', no grego koiné, significava originalmente opinião ou senso comum, mas no contexto do Novo Testamento passou a ser utilizada para descrever a glória de Deus, por esse motivo, a peça Doxa simboliza a Glória de Deus e torna-se o objetivo final do jogo. 
 
-A rainha foi substituída pelo Espírito, numa referência ao Espírito Santo, os peões representam as personas humanas, o bispo foi transformado em doxa (senso comum e julgamento social), o cavalo em Caos (ansiedade e autocobrança) e a torre em Fortaleza (a ideia de autossuficiência e esforço humano). Todas estas peças possuem um encaixe para receber a persona na parte inferior de cada peça com execessão da Doxa (rei) e Espirito (rainha), simbolizando a forma como carregamos e somos moldados por determinados sentimentos ou acontecimentos.
+A rainha foi substituída pelo Espírito, numa referência ao Espírito Santo, os peões representam as personas humanas, o bispo foi transformado em doxa (senso comum e julgamento social), o cavalo em Caos (ansiedade e autocobrança) e a torre em Fortaleza (a ideia de autossuficiência e esforço humano). Todas estas peças possuem um encaixe para receber a persona na parte inferior de cada peça com exceção da Doxa (rei) e Espirito (rainha), simbolizando a forma como carregamos e somos moldados por determinados sentimentos ou acontecimentos.
 
 O objetivo do jogo consiste em conduzir a persona até à peça Doxa através da ação do Espírito. Quando a confusão, a ansiedade e os julgamentos são confrontados pela Glória de Deus, surge clareza, direção e paz.
 
@@ -47,49 +47,49 @@ Uma ou mais tecnologias estudadas em laboratório:
 
 A linguagem formal de cada peça foi desenvolvida a partir do conceito que representa.
 
-
+![](attachments/Pasted%20image%2020260611003537.png)
 
 A peça Caos foi inspirada por figuras humanas curvadas em sofrimento e agonia, procurando transmitir ansiedade, pressão e instabilidade emocional.
 
+![](attachments/Pasted%20image%2020260611003604.png)
 
 A peça doxa (julgamento social) foi inspirada por um corpo projetado para a frente numa posição semelhante a um mergulho, transmitindo uma sensação de invasão e interferência constante.
 
+![](attachments/Pasted%20image%2020260611003617.png)
 
 A peça Fortaleza foi inspirada por uma figura humana em esforço extremo, esticando-se para cima até ao seu limite, simbolizando a tentativa de alcançar realização apenas através da força pessoal.
 
+![](attachments/Pasted%20image%2020260611003627.png)
 
 Por oposição, as peças Espírito e Doxa apresentam formas mais fluidas e orgânicas, refletindo a forma como a espiritualidade é entendida no projeto: simultaneamente robusta e fluida.
 
+![](attachments/Pasted%20image%2020260611003636.png)
 
 Esbocei todas as peças após unir referências relacionadas com os conceitos do projeto.
 
-
 Iniciei a modelação tridimensional das peças no Fusion 360.
 
+[https://a360.co/4uularh](https://a360.co/4uularh)
 
-Foram realizadas várias iterações de modelação e impressão para ajustar proporções, encaixes e estabilidade das peças.
+![](attachments/Pasted%20image%2020260611003731.png)
 
+Realizei o corte do vinil na Silhouette Cameo 3, utilizando quadrados com aproximadamente 2,5 cm × 2,5 cm para a construção do tabuleiro.
 
-Realizei o corte do vinil na Silhouette Cameo 5, utilizando quadrados com aproximadamente 2,5 cm × 2,5 cm para a construção do tabuleiro.
-
+![](attachments/Pasted%20image%2020260611003747.png)
 
 Apliquei o vinil num saco de algodão previamente adquirido, transformando-o simultaneamente em tabuleiro de jogo e elemento de armazenamento das peças.
-### Iteração 1 — [título]
+### Iteração 1 — [teste de impressão]
 
-**O que tentei:**
-**O que aprendi:**
+Foram realizadas várias iterações de modelação e impressão para ajustar proporções, encaixes e estabilidade das peças, durante a primeira tentativa, verificou-se que algumas peças não estavam corretamente posicionadas na base de impressão, o que originou falhas no processo de fabrico.
 
-![](attachments/hero.jpg)
+As iterações seguintes permitiram corrigir estes problemas e otimizar a qualidade e a estabilidade das peças finais.
 
-### Iteração 2 — [título]
-
-...
-
+![](attachments/Pasted%20image%2020260611003659.png)
 ## Resultado Final
 
 O resultado final consiste num jogo inspirado no xadrez tradicional, reinterpretado como uma representação física de uma batalha espiritual e psicológica.
 
-As peças foram modeladas digitalmente e produzidas através de impressão 3D. O tabuleiro foi aplicado diretamente num saco de tecido através de vinil cortado na Silhouette Cameo 5 Alpha Branco
+As peças foram modeladas digitalmente e produzidas através de impressão 3D. O tabuleiro foi aplicado diretamente num saco de tecido através de vinil cortado na Silhouette Cameo 3 Alpha Branco
 
 Esta solução permitiu reunir armazenamento e superfície de jogo num único objeto. Quando fechado, o saco serve para guardar as peças; quando aberto, transforma-se no próprio tabuleiro onde decorre a partida.
 
