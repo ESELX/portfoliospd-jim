@@ -15,11 +15,12 @@ student_number: "2024277"
 ---
 
 # Breath Builder
-![](attachments/banner%201.jpeg)
+
 Através da modelação e da tecnologia de impressão 3D alcançar o domínio da respiração.
 
 [ENG] Mastering the breath through the power of 3D modelling and printing technology
 
+![](attachments/banner%201.jpeg)
 ## Conceito/Concept
 
 O *breath builder* é um dispositivo que permite praticar a respiração. Este foi inventado pelo músico Harold Hansen com o intuito de desenvolver e melhorar a capacidade pulmonar e do diafragma dos músicos (especificamente aqueles que tocam instrumentos de sopro e cantores).
