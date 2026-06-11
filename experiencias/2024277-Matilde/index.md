@@ -3,7 +3,7 @@ title: Breath Builder
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/breath+builder+assorted+colors.webp
+hero_image: attachments/banner%201.jpeg)
 hero_title: Breath Builder
 hero_subtitle: Matilde Jorge · 2025-26
 hero_height: 80vh
@@ -15,7 +15,7 @@ student_number: "2024277"
 ---
 
 # Breath Builder
-
+![](attachments/banner%201.jpeg)
 Através da modelação e da tecnologia de impressão 3D alcançar o domínio da respiração.
 
 [ENG] Mastering the breath through the power of 3D modelling and printing technology

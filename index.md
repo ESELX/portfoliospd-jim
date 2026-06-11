@@ -74,7 +74,7 @@ Together, these works reflect both the technical learning involved in understand
 <div class="gallery-grid">
 
   <a class="gallery-card" href="experiencias/2024277-Matilde/">
-    <img src="experiencias/2024277-Matilde/attachments/banner.J" alt="" />
+    <img src="experiencias/2024277-Matilde/attachments/capajorge.JPEG" alt="" />
     <h3>Breath Builder</h3>
     <p>Matilde Jorge</p>
   </a>
