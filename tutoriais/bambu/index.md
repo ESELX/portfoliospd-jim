@@ -50,19 +50,18 @@ B. Filamento
 C. Suporte
 	- caso a peça que será impressa necessite de apoio durante o processo de impressão, deverá ir à aba do Support e configurar de acordo com o necessário. 
 
-[ENG] ### Preparing the File in Bambu Studio
+[ENG] **Preparing the File in Bambu Studio
 Important settings to consider:
 
-### A. Printer
+A. Printer
 -Select **Bambu Lab A1 Mini**
 -Select **Textured PEI Plate**
 
-### B. Filament
+B. Filament
 -Select **Generic PETG**
 
-### C. Supports
-
-If the object requires support structures during printing, open the **Support** tab and configure the settings according to the model's requirements.
+C. Supports
+-If the object requires support structures during printing, open the **Support** tab and configure the settings according to the model's requirements.
 
 ![](attachments/Pasted%20image%2020260610221207.png)
 	imagem 2 - configuração dos apoios [ENG] Support settings
