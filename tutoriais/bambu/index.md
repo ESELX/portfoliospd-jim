@@ -24,8 +24,8 @@ machine_name: Bambu Lab A1 mini
 
 De modo a dar corpo a um projeto através da Bambu Lab A1 mini é necessário desenhar e preparar o ficheiro num software de modelação 3D tais como o Fusion 360, o Blender e outros.
 É importante mencionar que existem plataformas que disponibilizam diversos e imensos modelos 3D e STL gratuitos feitos por outros designers e criadores da comunidade. Destas plataformas indicamos a MakerWorld e a Thingiverse.
-[ENG] To create a project using the Bambu Lab A1 Mini, it is necessary to design and prepare the file in a 3D modelling software such as Fusion 360, Blender, or other similar programs.
 
+[ENG] To create a project using the Bambu Lab A1 Mini, it is necessary to design and prepare the file in a 3D modelling software such as Fusion 360, Blender, or other similar programs.
 It is also important to mention that there are several online platforms that provide free 3D models and STL files created by members of the maker community. Examples include MakerWorld and Thingiverse.
 
 ## 2. Como preparar um ficheiro para a máquina
@@ -56,10 +56,8 @@ Important settings to consider:
 A. Printer
 -Select **Bambu Lab A1 Mini**
 -Select **Textured PEI Plate**
-
 B. Filament
 -Select **Generic PETG**
-
 C. Supports
 -If the object requires support structures during printing, open the **Support** tab and configure the settings according to the model's requirements.
 
@@ -67,12 +65,14 @@ C. Supports
 	imagem 2 - configuração dos apoios [ENG] Support settings
 
  Quando a preparação do ficheiro estiver concluída pode ser realizado o *slice* do ficheiro completo ou de apenas um dos *plates*, onde então é criado o G-code para a impressão e nos são dadas mais informações tais como o tempo estimado da impressão.
+ 
 [ENG] Once the file preparation is complete, the model can be sliced, either for the entire project or for an individual plate. The slicer will generate the G-code and provide additional information such as the estimated printing time.
 
 ![](attachments/Pasted%20image%2020260610221214.png)
 	imagem 3 - resultados do *slicer* no canto superior direito do ecrã [ENG] Slicer results displayed in the upper-right corner of the screen
 
 E por fim o ficheiro deverá ser exportado, como mostrado na imagem 4 que se segue, no formato Gcode (neste caso .gcode.3mf) e assim o ficheiro estará pronto.
+
 [ENG] Finally, the file should be exported, as shown in Image 4, using the G-code format (in this case, .gcode.3mf). The file is then ready for printing.
 
 ![](attachments/Pasted%20image%2020260610221219.png)
@@ -92,6 +92,7 @@ If necessary, clean the build plate using a paper towel and isopropyl alcohol, a
 	imagem 5 - limpeza da placa de montagem
 
 Ter cuidado para não tocar na placa de montagem durante o período da impressão pois a mesma pode chegar até aos 80ºC! Pela mesma razão deve-se aguardar um pouco que a placa de montagem arrefeça assim que o processo de impressão tenha concluído, de modo a evitar acidentes ou queimaduras ao se retirar o objeto impresso de cima da placa.
+
 [ENG] void touching the build plate during the printing process, as temperatures can reach up to 80°C.
 For the same reason, wait a few moments after the print has finished before removing the object, allowing the build plate to cool down and reducing the risk of burns or accidents.
 

@@ -86,7 +86,7 @@ As iterações seguintes permitiram corrigir estes problemas e otimizar a qualid
 
 ![](attachments/Pasted%20image%2020260611003659.png)
 ## Resultado Final
-
+![](attachments/11.jpg)
 O resultado final consiste num jogo inspirado no xadrez tradicional, reinterpretado como uma representação física de uma batalha espiritual e psicológica.
 
 As peças foram modeladas digitalmente e produzidas através de impressão 3D. O tabuleiro foi aplicado diretamente num saco de tecido através de vinil cortado na Silhouette Cameo 3 Alpha Branco
