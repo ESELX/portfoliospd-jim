@@ -5,7 +5,7 @@ tags: galeria
 status: not-started
 hero_image: attachments/DOXA2.jpg.jpeg
 hero_title: Xadrez DOXA
-hero_subtitle: Mariana Ferretto · 2024280
+hero_subtitle: Mariana Ferretto · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
@@ -47,8 +47,6 @@ All of these pieces, except for Doxa (King) and Spirit (Queen), contain a slot a
 The objective of the game is to guide the persona towards the Doxa piece through the action of the Spirit. When confusion, anxiety, and judgment encounter the Glory of God, clarity, direction, and peace emerge.
 
 ## Tecnologias Usadas / Technologies Used
-
-Uma ou mais tecnologias estudadas em laboratório:
 
 - [x] Corte 2D (laser / vinil)
 - [x] Impressão 3D
@@ -118,7 +116,7 @@ As iterações seguintes permitiram corrigir estes problemas e otimizar a qualid
 **[ENG]**  Several modelling and printing iterations were carried out to refine the proportions, connections, and stability of the pieces. During the first attempt, some of the pieces were not correctly positioned on the print bed, resulting in manufacturing failures. Subsequent iterations allowed these issues to be corrected and improved the overall quality and stability of the final pieces.
 
 ![](attachments/Pasted%20image%2020260611003659.png)
-## Resultado Final
+## Resultado Final/Final Result
 ![](attachments/11.jpg)
 O resultado final consiste num jogo inspirado no xadrez tradicional, reinterpretado como uma representação física de uma batalha espiritual e psicológica.
 As peças foram modeladas digitalmente e produzidas através de impressão 3D. O tabuleiro foi aplicado diretamente num saco de tecido através de vinil cortado na Silhouette Cameo 3 Alpha Branco
@@ -130,7 +128,7 @@ The pieces were digitally modelled and produced through 3D printing. The game bo
 This solution allowed storage and gameplay surface to be combined into a single object. When closed, the bag serves as storage for the pieces; when opened, it becomes the game board on which the match takes place.
 The project seeks to demonstrate how design can be used as a tool for reflection, transforming personal experiences into physical objects capable of communicating complex ideas.
 
-## Reflexão
+## Reflexão/ Final thoughts
 
 Este projeto permitiu explorar a relação entre design, simbolismo, teologia e experiência pessoal, o desenvolvimento das peças demonstrou como decisões formais podem transmitir significados abstratos e emocionais.
 Numa futura iteração, gostaria de aprofundar a mecânica do jogo, desenvolvendo regras exclusivas que reforcem ainda mais a narrativa conceptual do projeto e a relação simbólica entre as peças. Pretendo também explorar novas soluções para o tabuleiro, concebendo estruturas que funcionem simultaneamente como superfície de jogo e sistema de armazenamento das peças.

@@ -106,14 +106,16 @@ For the same reason, wait a few moments after the print has finished before remo
 Sequência operacional, com fotografias e/ou pequenos vídeos em cada passo crítico.
 
 1. Ligar a impressora no botão que se encontra no fundo da impressora 
-2. **[ENG]**  Turn on the printer using the power button located at the back of the machine.
+**[ENG]**  Turn on the printer using the power button located at the back of the machine.
 ![](attachments/Pasted%20image%2020260610221407.png)
 	imagem 6 - botão para ligar/desligar a impressora 
 	**[ENG]**  Printer power button
 
-3. Ejetar o cartão SD da impressora através do menu: 
-4. **[ENG]**  Eject the SD card through the printer menu:
+2. Ejetar o cartão SD da impressora através do menu: 
 *Settings* -> SD Card -> *Eject* -> confirmar *Eject*
+
+ **[ENG]**  Eject the SD card through the printer menu:
+*Settings* -> SD Card -> *Eject* -> confirm *Eject*
 
 
 ![445](attachments/Pasted%20image%2020260610234646.png)
@@ -121,17 +123,17 @@ Sequência operacional, com fotografias e/ou pequenos vídeos em cada passo crí
 	**[ENG]**  Step-by-Step Guide to Eject the SD Card on the Bambu Lab A1 Mini Screen
 
 3. Retirar o cartão SD da máquina e conectá-lo ao dispositivo e copiar o ficheiro G-Code para o cartão.
-4. **[ENG]**  Remove the SD card from the printer and connect it to the computer. Copy the G-code file onto the SD card.
+ **[ENG]**  Remove the SD card from the printer and connect it to the computer. Copy the G-code file onto the SD card.
 
 ![](attachments/P1180977.jpg)
 	imagem 8 - local do cartão SD na Bambu Lab A1 mini 
 	**[ENG]**  Location of the microSD card slot on the Bambu Lab A1 Mini.
 
 4. Ejetar o cartão SD do dispositivo e voltar a colocá-lo na impressora
-5. **[ENG]**  Safely eject the SD card from the computer and insert it back into the printer.
+ **[ENG]**  Safely eject the SD card from the computer and insert it back into the printer.
 
-5. Começar a impressão/Start the print::
- *Print Files* -> selecionar o ficheiro -> *Start Printing*
+5. Começar a impressão/*Start the print*:
+ *Print Files* -> selecionar o ficheiro/*select the file* -> *Start Printing*
  ![](attachments/Pasted%20image%2020260610235219.jpg)
 	imagem 9 - passo-a-passo para começar a impressão
 	 **[ENG]**  Step-by-Step Guide to Start Printing
@@ -167,7 +169,7 @@ O *slicer* utilizado foi o Bambu Studio.
 
 The slicer used was Bambu Studio.
 
-- obter o Autodesk Fusion 360: https://www.autodesk.com/pt/products/fusion-360/overview
-- ficheiro do *breath builder* : https://a360.co/4vKpTGw
-- obter o Bambu Studio: https://bambulab.com/en/download/studio
-- Bambu Lab Wiki para auxílio com outras possíveis dúvidas: https://wiki.bambulab.com/en/a1/manual/how-to-print-from-sd-card
+- obter o Autodesk Fusion 360/get Autodesk Fusion 360: https://www.autodesk.com/pt/products/fusion-360/overview
+- ficheiro do *breath builder* / file for the breath builder: https://a360.co/4vKpTGw
+- obter o Bambu Studio/get Bambu Studio: https://bambulab.com/en/download/studio
+- Bambu Lab Wiki para auxílio com outras possíveis dúvidas/ Bambu Lab Wiki to look for help with more questions: https://wiki.bambulab.com/en/a1/manual/how-to-print-from-sd-card

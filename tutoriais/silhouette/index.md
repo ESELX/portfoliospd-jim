@@ -18,7 +18,7 @@ machine_name: Cortadora de Vinil Silhouette Cameo 3 Branco
 >
 **[ENG]** The Silhouette Cameo 3 is a digital cutting plotter that transforms vector drawings into precise cuts on a variety of materials, making it widely used in design, graphic production, and prototyping.
 
-![](../../attachments/silhouette.jpg)
+![](../../attachments/silhouette.jpeg)
 
 ## 1. Como desenhar para esta tecnologia?
 
