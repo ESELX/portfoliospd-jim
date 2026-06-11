@@ -19,6 +19,7 @@ student_number: "2024280"
 ![](../../attachments/DOXA2.jpg.jpeg)
 
 Transformar uma batalha mental e espiritual num jogo inspirado no xadrez, onde a procura pela glória de Deus supera o caos, a ansiedade e os julgamentos humanos. 
+
 **[ENG]** Transforming a mental and spiritual battle into a chess-inspired game, where the pursuit of God's glory overcomes chaos, anxiety, and human judgment.
 
 ## Conceito/Concept
@@ -59,46 +60,55 @@ Uma ou mais tecnologias estudadas em laboratório:
 ## Processo/ Process
 
 A linguagem formal de cada peça foi desenvolvida a partir do conceito que representa. 
+
 **[ENG]** The formal language of each piece was developed directly from the concept it represents.
 
 ![](attachments/Pasted%20image%2020260611003537.png)
 
 A peça Caos foi inspirada por figuras humanas curvadas em sofrimento e agonia, procurando transmitir ansiedade, pressão e instabilidade emocional.
+
 **[ENG]** The Chaos piece was inspired by human figures bent over in suffering and agony, seeking to convey anxiety, pressure, and emotional instability.
 
 ![](attachments/Pasted%20image%2020260611003604.png)
 
 A peça doxa (julgamento social) foi inspirada por um corpo projetado para a frente numa posição semelhante a um mergulho, transmitindo uma sensação de invasão e interferência constante.
+
 **[ENG]** The doxa piece (social judgment) was inspired by a human body projected forward in a diving-like position, conveying a sense of invasion and constant interference.
 
 ![](attachments/Pasted%20image%2020260611003617.png)
 
 A peça Fortaleza foi inspirada por uma figura humana em esforço extremo, esticando-se para cima até ao seu limite, simbolizando a tentativa de alcançar realização apenas através da força pessoal.
+
 **[ENG]** The Fortress piece was inspired by a human figure stretching upward to its absolute limit, symbolizing the attempt to achieve fulfillment solely through personal effort and self-reliance.
 
 ![](attachments/Pasted%20image%2020260611003627.png)
 
 Por oposição, as peças Espírito e Doxa apresentam formas mais fluidas e orgânicas, refletindo a forma como a espiritualidade é entendida no projeto: simultaneamente robusta e fluida.
+
 **[ENG]** In contrast, the Spirit and Doxa pieces feature more fluid and organic forms, reflecting the way spirituality is understood within the project: simultaneously robust and fluid.
 
 ![](attachments/Pasted%20image%2020260611003636.png)
 
 Esbocei todas as peças após unir referências relacionadas com os conceitos do projeto.
+
 **[ENG]**  I sketched all the pieces after gathering references related to the project's concepts.
 
 https://a360.co/4xnyLDr 
 
 Iniciei a modelação tridimensional das peças no Fusion 360.
+
 **[ENG]** I began the three-dimensional modelling of the pieces in Fusion 360.
 
 ![](attachments/Pasted%20image%2020260611003731.png)
 
 Realizei o corte do vinil na Silhouette Cameo 3, utilizando quadrados com aproximadamente 2,5 cm × 2,5 cm para a construção do tabuleiro.
+
 **[ENG]**  I cut the vinyl using the Silhouette Cameo 3, creating approximately 2.5 cm × 2.5 cm squares to construct the game board.
 
 ![](attachments/Pasted%20image%2020260611003747.png)
 
 Apliquei o vinil num saco de algodão previamente adquirido, transformando-o simultaneamente em tabuleiro de jogo e elemento de armazenamento das peças.
+
 **[ENG]**  I applied the vinyl onto a pre-purchased cotton drawstring bag, transforming it simultaneously into the game board and the storage solution for the pieces.
 ### Iteração  — [teste de impressão]
 

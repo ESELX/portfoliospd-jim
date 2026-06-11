@@ -16,6 +16,7 @@ machine_name: Bambu Lab A1 mini
 # Bambu Lab A1 mini
 
 > A Bambu Lab A1 Mini é uma impressora 3D FDM de secretária utilizada para fabricar objetos físicos a partir de modelos digitais tridimensionais, é amplamente utilizada em contextos de prototipagem, design de produto, educação, engenharia e fabrico digital.
+> 
 > **[ENG]**  The Bambu Lab A1 Mini is a desktop FDM 3D printer used to manufacture physical objects from digital 3D models. It is widely used in prototyping, product design, education, engineering, and digital fabrication projects.
 ![](attachments/bambu.jpg)
 
@@ -161,6 +162,7 @@ The required post-processing will depend on the intended use and level of finish
 
 O ficheiro utilizado para referência deste tutorial foi feito no Autodesk Fusion 360 (modelo dum *breath builder*).
 O *slicer* utilizado foi o Bambu Studio.
+
 **[ENG]** The reference file used for this tutorial was created in Autodesk Fusion 360 and consists of a Breath Builder model.
 
 The slicer used was Bambu Studio.

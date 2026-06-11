@@ -15,7 +15,8 @@ machine_name: Cortadora de Vinil Silhouette Cameo 3 Branco
 
 #  Cortadora de Vinil Silhouette Cameo 3 Branco
 > A Silhouette Cameo 3 é uma plotter de corte digital que permite transformar desenhos vetoriais em cortes sobre diversos materiais, sendo utilizada em contextos de design, produção gráfica e prototipagem. 
-> **[ENG]** The Silhouette Cameo 3 is a digital cutting plotter that transforms vector drawings into precise cuts on a variety of materials, making it widely used in design, graphic production, and prototyping.
+>
+**[ENG]** The Silhouette Cameo 3 is a digital cutting plotter that transforms vector drawings into precise cuts on a variety of materials, making it widely used in design, graphic production, and prototyping.
 
 ![](../../attachments/silhouette.jpg)
 
@@ -29,6 +30,7 @@ Considerações de design:
 - Confirmar as dimensões finais do desenho antes da exportação.  
 - Organizar corretamente os elementos na folha.  
 No nosso teste foi utilizada uma folha em formato A4.
+
 
 **[ENG]** The Silhouette vinyl cutter operates using vector drawings. To use this technology, the design must be created in vector-based software, allowing the machine to follow the defined paths and perform the cuts.
 Design Considerations
@@ -47,12 +49,14 @@ Software utilizado:
 - Silhouette Studio  
   
 O desenho foi criado no Adobe Illustrator e posteriormente preparado no Silhouette Studio. 
+
 **[ENG]** The design was created in Adobe Illustrator and later prepared in Silhouette Studio. 
   
 Formato de ficheiro:  
 - DXF (.dxf)  
   
 Durante o processo foi necessário criar o desenho em vetor, organizar o desenho numa folha A4, exportar em formato DXF e importar o ficheiro para o Silhouette Studio.
+
 **[ENG]** During the process, it was necessary to create the design as a vector file, organize it on an A4 sheet, export it as a DXF file, and import it into Silhouette Studio.
 ## 3. Antes de Começar
 
@@ -70,6 +74,7 @@ Durante o processo foi necessário criar o desenho em vetor, organizar o desenho
 ### 3.2. Que tipo de ficheiros vou usar e onde os posso produzir
 
 O ficheiro foi produzido no Adobe Illustrator através de desenho vetorial e exportado em formato DXF, posteriormente o ficheiro foi aberto no Silhouette Studio para preparação do corte.
+
 **[ENG]** The file was created in Adobe Illustrator using vector graphics and exported as a DXF file. It was then opened in Silhouette Studio for cutting preparation.
 
 ## 4. Como operar a máquina passo-a-passo
@@ -127,26 +132,32 @@ For projects containing more detailed or numerous elements, the use of transfer 
 
 ![](attachments/Pasted%20image%2020260610223945.png)
 imagem 1 - aplicação da película aderente transparente em cima do vinil 
+
 **[ENG]** Applying the transparent transfer tape over the vinyl.
 
 ![](attachments/Pasted%20image%2020260610224000.png)
 imagem 2 - levantar e começar a separar a película transparente do vinil. 
+
 **[ENG]** Lifting and beginning to separate the transparent transfer tape together with the vinyl.
 
 ![](attachments/Pasted%20image%2020260610224010.png)
 imagem 3 - aplicar o autocolante com a película na superfície. 
+
 **[ENG]** Applying the vinyl design with the transfer tape onto the target surface.
 
 ![](attachments/Pasted%20image%2020260610224055.png)
 imagem 4 - depois de meter alguma pressão e vincar o autocolante na superfície, retirar a película de cima do autocolante e da superfície, se necessário, utilizar um estilete para retirar quaisquer excessos que possam ter ficado. 
+
 **[ENG]**  After applying pressure and ensuring adhesion, carefully remove the transfer tape. If necessary, use a craft knife to remove any remaining excess material.
 
 ![](attachments/Pasted%20image%2020260610224103.png)
-imagem 5 - transferência completa! 
+Imagem 5 - transferência completa! 
+
 **[ENG]**  Transfer completed successfully.
 ## 6. Recursos e Ficheiros
 
 Os ficheiros utilizados foram produzidos no Adobe Illustrator e exportados em formato DXF para o Silhouette Studio. Como apoio ao processo foram utilizados os recursos disponibilizados pelo software e a documentação da Silhouette. 
+
 **[ENG]**  The files used were created in Adobe Illustrator and exported as DXF files for use in Silhouette Studio. Additional support materials included the resources provided by the software and the official Silhouette documentation.
   
 **Links externos:**  
