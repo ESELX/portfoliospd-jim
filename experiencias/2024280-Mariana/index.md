@@ -84,8 +84,7 @@ Por oposição, as peças Espírito e Doxa apresentam formas mais fluidas e org�
 Esbocei todas as peças após unir referências relacionadas com os conceitos do projeto.
 [ENG] I sketched all the pieces after gathering references related to the project's concepts.
 
-[https://a360.co/4uularh](https://a360.co/4uularh)
-
+https://a360.co/4xnyLDr 
 
 Iniciei a modelação tridimensional das peças no Fusion 360.
 [ENG]I began the three-dimensional modelling of the pieces in Fusion 360.
