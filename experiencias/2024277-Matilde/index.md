@@ -3,7 +3,7 @@ title: Breath Builder
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/banner%201.jpeg)
+hero_image: attachments/banner.jpeg)
 hero_title: Breath Builder
 hero_subtitle: Matilde Jorge · 2025-26
 hero_height: 80vh
