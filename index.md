@@ -50,7 +50,7 @@ Este grupo desenvolveu tutoriais de utilização para a cortadora de vinil Silho
   </a>
 
   <a class="gallery-card" href="tutoriais/silhouette/">
-    <img src="tutoriais/silhouette/attachments/silhouette.jpg" alt="" />
+    <img src="tutoriais/silhouette/attachments/attachments/silhouette.jpg" alt="" />
     <h3>Silhouette Cameo 3</h3>
     <p>Tutorial detalhado</p>
   </a>
@@ -74,7 +74,7 @@ Este grupo desenvolveu tutoriais de utilização para a cortadora de vinil Silho
     <p>Matilde Jorge</p>
   </a>
 <a class="gallery-card" href="experiencias/2024280-Mariana/">
-    <img src="experiencias/2024280-Mariana/attachments/DOXA2.jpg.jpeg" alt="" />
+    <img src="experiencias/2024280-Mariana/attachments/DOXA2.jpg" alt="" />
     <h3>Xadrez DOXA</h3>
     <p>Mariana Ferretto</p>
   </a>
