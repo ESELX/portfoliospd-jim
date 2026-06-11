@@ -52,10 +52,6 @@ The _breath builder_ works as follows:
 - The ball also serves to create greater resistance to the airflow and breath.
 - The holes located at the top of the device can be covered with caps or fingers, increasing the difficulty of the breathing exercise.
 
-Below is a video demonstration of how the _breath builder_ works:
-
-https://youtu.be/DG9wJvVC0uc?si=b7A9MYUfdovJ7op-&t=37
-
  As I also play a few wind instruments and have a keen interest in finding any tricks or methods to improve my sound quality or stability whilst playing, the _breath builder_ deeply captivated me, and I was very keen to acquire one.
 
 Therefore, I decided to try to recreate the device using the 3D printing technologies provided by FabLab Benfica, specifically the Bambu Lab A1 mini printer.
