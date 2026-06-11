@@ -15,26 +15,30 @@ machine_name: Bambu Lab A1 mini
 
 # Bambu Lab A1 mini
 
-> Frase-síntese: o que é a máquina, para que serve, em que contextos é usada.
+> The Bambu Lab A1 Mini is a desktop FDM 3D printer used to manufacture physical objects from digital 3D models. It is widely used in prototyping, product design, education, engineering, and digital fabrication projects.
 ![](attachments/bambu.jpg)
 
 
-## 1. Como desenhar para esta tecnologia?
+## 1. How to Design for This Technology?
 
-De modo a dar corpo a um projeto através da Bambu Lab A1 mini é necessário desenhar e preparar o ficheiro num software de modelação 3D tais como o Fusion 360, o Blender e outros.
-É importante mencionar que existem plataformas que disponibilizam diversos e imensos modelos 3D e STL gratuitos feitos por outros designers e criadores da comunidade. Destas plataformas indicamos a MakerWorld e a Thingiverse.
+To create a project using the Bambu Lab A1 Mini, it is necessary to design and prepare the file in a 3D modelling software such as Fusion 360, Blender, or other similar programs.
 
-## 2. Como preparar um ficheiro para a máquina
+It is also important to mention that there are several online platforms that provide free 3D models and STL files created by members of the maker community. Examples include MakerWorld and Thingiverse.
 
-Antes de ser impresso, o ficheiro do modelo 3D tem que ser processado através dum *slicer* de modo a que o mesmo seja convertido para um G-code. O slicer indicado para a Bambu Lab A1 mini é o Bambo Studio. 
+## 2. How to Prepare a File for the Machine
 
-Para abrir o ficheiro 3D dentro do Bambu Studio, o mesmo tem que ser importado num dos seguintes formatos suportados pelo slicer: .stl / .obj / .3mf
+Before printing, the 3D model file must be processed through a slicer so that it can be converted into G-code.
+
+The recommended slicer for the Bambu Lab A1 Mini is Bambu Studio.
+
+To open the 3D model in Bambu Studio, the file must be imported in one of the supported formats:.stl / .obj / .3mf
 
 ![](attachments/Pasted%20image%2020260610221046.png)
-	imagem 1 - preparação do ficheiro dentro do *slicer* Bambu Studio
+	Image 1 – Preparing the file inside Bambu Studio
 
-**Preparação do ficheiro dentro do Bambu Studio**. Pontos importantes a ter em consideração são:
-A. Impressora
+Preparing the File in Bambu Studio. 
+Important settings to consider:
+A. Printer
 	- selecionar a Bambu Lab A1 mini
 	- selecionar o textured PEI plate
 B. Filamento

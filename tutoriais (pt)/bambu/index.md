@@ -15,7 +15,7 @@ machine_name: Bambu Lab A1 mini
 
 # Bambu Lab A1 mini
 
-> Frase-síntese: o que é a máquina, para que serve, em que contextos é usada.
+> A Bambu Lab A1 Mini é uma impressora 3D FDM de secretária utilizada para fabricar objetos físicos a partir de modelos digitais tridimensionais, é amplamente utilizada em contextos de prototipagem, design de produto, educação, engenharia e fabrico digital.
 ![](attachments/bambu.jpg)
 
 
