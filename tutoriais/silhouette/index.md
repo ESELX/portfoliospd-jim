@@ -3,7 +3,7 @@ title: Cortadora de Vinil Silhouette Cameo 3 Branco
 icon: lucide/cog
 tags: galeria
 status: not-started
-hero_image: attachments/Imagem10.png
+hero_image: attachments/silhouette.jpeg
 hero_title: Cortadora de Vinil Silhouette Cameo 3 Branco
 hero_subtitle: Tutorial detalhado
 hero_height: 70vh
